@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page checkout-complete html'
+'step 1: Navigate to Page inventory-item html'
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '')
 
-'step 2: Add visual checkpoint at Page checkout-complete html'
+'step 2: Add visual checkpoint at Page inventory-item html'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Display of Checkout Completion Page_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Inventory Item Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
