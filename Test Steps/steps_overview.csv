@@ -1,9 +1,4 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Flow 0,"step 1: Navigate to Page signin
+1,Verify Successful Login and Redirect to Home Page,"step 1: Navigate to Page signin
 step 2: Login at Page signin  --> navigate to Page home
-step 3: At Page home click on hyperlink shop --> navigate to Page shop
-step 4: At Page shop click on img object --> navigate to Page product J7HWmUlaKNhsDR7oyaet
-step 5: At Page product J7HWmUlaKNhsDR7oyaet  click on div object
-step 6: At Page product J7HWmUlaKNhsDR7oyaet  click on div object
-step 7: At Page product J7HWmUlaKNhsDR7oyaet  click on button object
-step 8: Add visual checkpoint at Page product J7HWmUlaKNhsDR7oyaet",High
+step 3: Add visual checkpoint at Page home",High
