@@ -2,20 +2,20 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'standard_user'</initValue>
+        <initValue>'ptlai98@gmail.com'</initValue>
         <name>username</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'secret_sauce'</initValue>
+        <initValue>'Test@1234'</initValue>
         <name>password</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'https://www.saucedemo.com'</initValue>
+        <initValue>'https://release.d18rrul3lkcv93.amplifyapp.com'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
-    <defaultProfile>False</defaultProfile>
+    <defaultProfile>True</defaultProfile>
     <description></description>
     <name>test</name>
     <tag></tag>
